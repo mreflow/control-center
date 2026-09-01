@@ -31,9 +31,9 @@
     "url": "https://github.com/mreflow/control-center/issues"
   },
   "dependencies": {
-    "fast-xml-parser": "^5.11.0",
-    "lucide-react": "^0.563.0",
-    "next": "^16.2.10",
+    "fast-xml-parser": "^5.11.1",
+    "lucide-react": "^1.37.0",
+    "next": "^16.3.3",
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
   },
