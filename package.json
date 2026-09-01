@@ -38,13 +38,13 @@
     "react-dom": "^19.2.7"
   },
   "devDependencies": {
-    "@types/node": "^24.13.3",
+    "@types/node": "^26.4.0",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^9.39.5",
-    "eslint-config-next": "^16.2.10",
+    "eslint": "^10.9.1",
+    "eslint-config-next": "^16.3.3",
     "tsx": "^4.23.12",
-    "typescript": "^5"
+    "typescript": "^7"
   },
   "allowScripts": {
     "esbuild@0.28.2": true,
